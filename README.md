@@ -41,8 +41,7 @@
 *The target variable is `y`, indicating whether the customer subscribed to a term deposit ("yes" or "no").*
 
 *Note: The dataset is publicly available from the UCI Machine Learning Repository or can be found in similar bank marketing campaign datasets.*
-https://www.canva.com/link?target=https%3A%2F%2Fwww.kaggle.com%2Fc%2Fdogs-vs-cats%2Fdata&design=DAFpRxy47kU&accessRole=viewer&linkSource=document
----
+
 
 ## *Installation*
 ```bash
